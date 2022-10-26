@@ -1,0 +1,17 @@
+
+#define PACKAGE "fuse"
+#define VERSION "0.7.0"
+#define YYTEXT_POINTER 1
+#define STDC_HEADERS 1
+#undef HAVE_LIBGEN_H 
+#define HAVE_STRINGS_H 1
+#undef HAVE_SYS_SOUNDCARD_H 
+#undef HAVE_UNISTD_H 
+#undef HAVE_GETPAGESIZE 
+#undef HAVE_DIRNAME 
+#undef HAVE_GETEUID 
+#undef HAVE_GETOPT_LONG 
+#undef HAVE_MKSTEMP 
+#define X_DISPLAY_MISSING 1
+#undef UI_X 
+#undef USE_WIDGET 

@@ -1,0 +1,5 @@
+Most part of PsPectrum is released under the GNU Public License (GPL), see http://www.gnu.org for details or the source distribution of PsPectrum, which features a copy of the license. Basically GPL gives you the freedom to take PsPectrum, modify it to meet your needs and to redistribute it, if and only if you make the source code available freely to the public (still under the GPL license).
+
+The graphical framework used by PsPectrum is not released under GPL, instead it is (C) Jacco Bikker, with the following text : 
+
+The Spectrum 48k and 128k roms are (C) Amstrad, but they have granted free distribution for emulators. 

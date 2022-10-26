@@ -1,0 +1,37 @@
+PsPectrum is assembled and programmed by HexDump.
+
+Sources of inspiration for PsPectrum
+======================================
+
+PsPectrum uses code and inspiration from the following sources : 
+
+---
+
+FUSE - Free Unix Spectrum Emulator version 0.7.0 - (C) Philip Kendall (and others)
+
+FUSE is an Unix Spectrum emulator that is copyrighted under the GPL 
+license. PsPectrum borrows freely from the source code of FUSE: 
+
+* Allmost all parts are borrowed, but lowlevel routines (audio, graphics, etc...
+
+If looking at the source code of PsPectrum the parts that are 
+copied more or less unchanged reside in the MainCode\FUSE 
+directory. 
+
+FUSE can be found at 
+http://fuse-emulator.sourceforge.net/ or at the World of 
+Spectrum http://www.worldofspectrum.org.
+
+This document is based on the one wrote for PoketClive, an emulator based on FUSE too.
+
+
+Comments
+==============
+PsPectrum is built using a VC 8.0 project. At the moment only sources are given,
+Excep some little lowlevel psp functions for sound, and graphics an controls but I need
+to talk to the one who write them (one of my programming team) in order to release them.
+
+Some other parts like zlib, etc... can ge downloaded from inet.
+
+
+(C) HexDump 2006.
